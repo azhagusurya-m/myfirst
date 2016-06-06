@@ -2,7 +2,7 @@
 
 int main(void) {
 	
-int input,k;
+int input;
 scanf("%d",&input);
 printf("%s",(input%2==0)?"even":"odd");
 	return 0;
