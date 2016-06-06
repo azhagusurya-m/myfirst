@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 int main(void) {
-    int num,i=0,n,p;
+    int num,i=0,n;
     scanf("%d",&num);
     int cnum=num;
     int rev=0,mod;
