@@ -4,7 +4,7 @@ int main(void) {
     int num,i=0,n,p;
     scanf("%d",&num);
     int cnum=num;
-    int rev=0	`,mod;
+    int rev=0,mod;
     while(num)
     {
     mod=num%10;
